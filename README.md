@@ -7,5 +7,3 @@
 Fast drop-in replacement for makefun-site — byte-identical output, byte-sink
 rendering with leaf-value memoization. Entry for the
 [site-generator-speed-01-run-20261122 bounty](https://make.fun/bounty/site-generator-speed-01-run-20261122).
-
-\
